@@ -1,0 +1,24 @@
+xpath:
+# Login page
+  LOCATOR_USERNAME: //*[@id="login"]/div[1]/label/input
+  LOCATOR_PASS: //*[@id="login"]/div[2]/label/input
+  LOCATOR_ERR_MSG: //*[@id="app"]/main/div/div/div[2]/h2
+  LOCATOR_AUTH_MSG: //*[@id="app"]/main/nav/ul/li[3]/a
+# Add post page
+  LOCATOR_ADD_POST: //*[@id="create-btn"]
+  LOCATOR_POST_TITLE: //*[@id="create-item"]/div/div/div[1]/div/label/input
+  LOCATOR_POST_DESCR: //*[@id="create-item"]/div/div/div[2]/div/label/span/textarea
+  LOCATOR_POST_CONTENT: //*[@id="create-item"]/div/div/div[3]/div/label/span/textarea
+  LOCATOR_POST_CREATE_BTN: //*[@id="create-item"]/div/div/div[7]/div/button
+  LOCATOR_TITLE_NEW_POST: //*[@id="app"]/main/div/div[1]/h1
+# Contact page
+  LOCATOR_TITLE_PAGE: //*[@id="app"]/main/div/div/h1
+  LOCATOR_YOUR_NAME: //*[@id="contact"]/div[1]/label/input
+  LOCATOR_YOUR_EMAIL: //*[@id="contact"]/div[2]/label/input
+  LOCATOR_CONTENT: //*[@id="contact"]/div[3]/label/span/textarea
+  LOCATOR_BTN: //*[@id="contact"]/div[4]/button
+  LOCATOR_EMAIL_LABEL: //*[@id="contact"]/div[2]/label/span
+
+css:
+# Login page
+  LOCATOR_BTN_LOGIN: button

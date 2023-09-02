@@ -1,0 +1,32 @@
+23:50:27 INFO Browser : chrome
+23:50:27 INFO ====== WebDriver manager ======
+23:50:28 INFO Get LATEST chromedriver version for google-chrome
+23:50:28 INFO Get LATEST chromedriver version for google-chrome
+23:50:28 INFO There is no [mac64] chromedriver "116.0.5845.140" for browser google-chrome "116.0.5845.140" in cache
+23:50:28 INFO Get LATEST chromedriver version for google-chrome
+23:50:28 INFO WebDriver version 116.0.5845.96 selected
+23:50:28 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/mac-x64/chromedriver-mac-x64.zip
+23:50:28 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/mac-x64/chromedriver-mac-x64.zip
+23:50:28 INFO Driver downloading response is 200
+23:50:28 INFO Get LATEST chromedriver version for google-chrome
+23:50:29 INFO Driver has been saved in cache [/Users/ksheleh/.wdm/drivers/chromedriver/mac64/116.0.5845.140]
+23:50:30 INFO Test1 starting
+23:50:34 INFO Test2 starting
+23:50:36 INFO Test3 starting
+23:50:36 INFO Fill post Title3 Description3 Content3
+23:50:39 INFO Test4 starting
+23:50:40 INFO Fill post Title4 Description4 None
+23:50:43 INFO Test5 starting
+23:50:44 INFO Fill post Title5 None Content5
+23:50:46 INFO Test6 starting
+23:50:47 INFO Fill post Title6 None None
+23:50:49 INFO Test7 starting
+23:50:49 INFO Fill contact us form : Name7 name7@email.com Content7
+23:50:52 INFO Test8 starting
+23:50:52 INFO Fill contact us form : Name8 name8@email.com None
+23:50:55 INFO Test9 starting
+23:50:55 INFO Fill contact us form : Name9 None Content9
+23:50:57 INFO Test10 starting
+23:50:57 INFO Fill contact us form : Name10 None None
+23:50:59 INFO Test11 starting
+23:50:59 INFO Fill contact us form : Name11 Email11 None

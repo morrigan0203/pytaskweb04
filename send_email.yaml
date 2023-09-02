@@ -1,0 +1,6 @@
+from_addr: CHANGEME
+to_addr: CHANGEME
+my_pass: CHANGEME
+report_name: report.html
+smtp_mail_host: smtp.mail.ru
+smtp_mail_port: 465

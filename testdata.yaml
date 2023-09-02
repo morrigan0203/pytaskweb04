@@ -1,0 +1,6 @@
+address: http://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+implicitly_wait: 3
+username: firstname
+password: 342f5c77ed

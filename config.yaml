@@ -1,0 +1,9 @@
+wsdl: http://speller.yandex.net/services/spellservice?WSDL
+
+site: https://test-stand.gb.ru
+username: testtest1
+password: c23b2ed66e
+email: testtest1@mail.com
+login_path: /gateway/login
+get_posts_path: /api/posts
+create_post_path: /gateway/posts
